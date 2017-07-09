@@ -1,12 +1,6 @@
-int a=25253;
-int k=a-25250;
-System.out.println(+k);
 
-int a=-2234
-int k=2234+a;
-System.out.println(+k);
 
-nt n;
+{int n;
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the number you want to check:");
         n = s.nextInt();
